@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fire Ze Missiles Dialog Fragment Example</string>
+    <string name="dialog_fire_missiles">Fire missiles?</string>
+    <string name="fire">fire</string>
+    <string name="cancel">@android:string/cancel</string> <!-- It could just say Cancel between the tags, but Android likes this better -->
+    <string name="default_text">Default text</string>
+    <string name="button_text">open dialog fragment</string>
+</resources>
